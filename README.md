@@ -7,7 +7,6 @@ What is "bootstrap"?
 
 Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains CSS- and (optionally) JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components.
 
-Bootstrap is among the most starred projects on GitHub, with more than 142,000 stars, behind freeCodeCamp (almost 312,000 stars) and marginally behind Vue.js framework.
 (source : https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework) )
 
 
