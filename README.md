@@ -3,7 +3,7 @@
 <h1> Website - bootstrap </h1>
 
 *<h2>Website written with Bootstrap :blue_book:</h2>*
->from the series: learning to make web pages  :muscle:
+>from the series: how to Create a Website  :muscle:
 
 ----
 
@@ -36,13 +36,6 @@ Bootstrap is a free and open-source CSS framework directed at responsive, mobile
 
 
 ----
-
-
-
-
-
-
-
 
 
 
