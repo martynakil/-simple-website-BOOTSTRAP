@@ -29,7 +29,7 @@ Bootstrap is a free and open-source CSS framework directed at responsive, mobile
 <h3>do you want to watch it live? </h3>
 
 
-:arrow_right: :arrow_right:   [click me](https://martynakil.github.io/-simple-website-BOOTSTRAP/bootstrap_website/index.html#team ) :arrow_left: :arrow_left:
+:arrow_right: :arrow_right:   [click me](https://martynakiljan.github.io/-simple-website-BOOTSTRAP/bootstrap_website/index.html#team ) :arrow_left: :arrow_left:
 
 ----
 
